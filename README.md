@@ -18,7 +18,7 @@ Executive summary:
 
 ## Architecture 
 🏛️ The architecture I used in this project: 
-<img src="img/architecture.jpg">
+<img src="img/etl-architecture.jpg">
 
 ## Tools 
 🔧 Tools I used in this project:
@@ -33,7 +33,7 @@ Executive summary:
     🗃️ SQL
 
 ## Dataset 
-TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types and driver-reported passenger counts.
 
 Here is the dataset used in this project - https://github.com/fadliahmad/uber-analytics-engineer-project/tree/master/data
 More info about the dataset can be found here:
@@ -43,7 +43,7 @@ More info about the dataset can be found here:
 
 ## Data Model 
 📑 Data modeling in this project: 
-<img src="img/Uber Data Modelling.jpeg">
+<img src="img/nyctaxi-data-model.jpg">
 
 ## Creating Google Cloud Storage Bucket 
 📥 It's an online file storage provided as a service by GCP. It helps us store, and retrieve files from anywhere in the cloud with an internet connection.
