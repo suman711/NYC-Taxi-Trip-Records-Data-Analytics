@@ -62,4 +62,5 @@ More info about the dataset can be found here:
 
 ## Dashboard 
 🔍 Dashboard result: 
-<img src="img/Uber_Data_Engineer_Analytics_Project_Dashboard.jpg"> 
+<img src="NYC_Taxi_Trip_Records_Dashboard_page-0001.jpg">
+<img src="NYC_Taxi_Trip_Records_Dashboard_page-0002.jpg"> 
