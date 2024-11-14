@@ -18,7 +18,7 @@ Executive summary:
 
 ## Architecture 
 🏛️ The architecture I used in this project: 
-<img src="img/etl-architecture.jpg">
+<img src="etl-architecture.jpg">
 
 ## Tools 
 🔧 Tools I used in this project:
@@ -43,7 +43,7 @@ More info about the dataset can be found here:
 
 ## Data Model 
 📑 Data modeling in this project: 
-<img src="img/nyctaxi-data-model.jpg">
+<img src="nyctaxi-data-model.jpg">
 
 ## Creating Google Cloud Storage Bucket 
 📥 It's an online file storage provided as a service by GCP. It helps us store, and retrieve files from anywhere in the cloud with an internet connection.
