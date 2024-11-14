@@ -46,19 +46,15 @@ More info about the dataset can be found here:
 
 ## Creating Google Cloud Storage Bucket 
 📥 It's an online file storage provided as a service by GCP. It helps us store, and retrieve files from anywhere in the cloud with an internet connection.
-<img src="img/Google Cloud Storage - Bucket.png">
 
 ## Creating a Virtual Machine Instance to Run Mage.ai 
-🖥️ It's part of the GCP suite that helps us run virtual machines to run our applications. 
-<img src="img/Vm Instance.png"> 
+🖥️ It's part of the GCP suite that helps us run virtual machines to run our applications.  
 
 ## Creating a Virtual Machine Instance to Run Mage.ai 
 🧙‍♂️ Mage is the latest open-source tool to set up your ETL pipeline. This tool helps you with focussing only on your business logic using certain existing templates it provides to — ‘load’, ’transform’, and ‘extract’ the data. 
-<img src="img/mage pipeline.png"> 
 
 ## Managing data warehouse in BigQuery 
 🏭 It's a warehouse provided by Google that helps us store, and analyze large-scale data sets using a SQL-type interface and query language. 
-<img src="img/BigQuery.png"> 
 
 ## Dashboard 
 🔍 Dashboard result: 
