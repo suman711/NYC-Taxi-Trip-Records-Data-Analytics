@@ -1,7 +1,7 @@
-# uber-analytics-engineer-project
+# NYC Taxi Trip Records Data Analytics
 
 ## Introduction 
-This project aims to perform end-to-end data engineer analytics on the Uber dataset using various tools and technologies, including Google Cloud Storage, Python, Google Compute Engine, Mage Data Pipeline Tool, BigQuery, and Looker Studio. 
+This project aims to perform end-to-end data engineer analytics on the NYC Taxi Trip records dataset using various tools and technologies, including Google Cloud Storage, Python, Google Compute Engine, Mage Data Pipeline Tool, BigQuery and Looker Studio. 
 
 Executive summary: 
 
@@ -11,7 +11,7 @@ Executive summary:
     🐍 Creating a Python notebook for data extraction and transformation
     🖥️ Creating a virtual machine instance to run Mage.ai pipeline tools
     🧙‍♂️ Creating data pipeline using Mage.ai 
-    🏭 Managing data warehouse in BigQuery (dimensional, fact, and mart table concept) 
+    🏭 Managing data warehouse in BigQuery (dimensional, fact and mart table concept) 
     📊 Creating a dashboard and analyzing the data 
       
 📒 Notes: the dimensional data table is not necessary, but it's just for understanding the concept of a dim-fact-mart table. 
